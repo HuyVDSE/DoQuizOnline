@@ -1,0 +1,12 @@
+userPage
+signin
+login
+signup
+registration
+logout
+userHome
+attempt-quiz
+do-quiz
+submit-quiz
+result-quiz
+error-page

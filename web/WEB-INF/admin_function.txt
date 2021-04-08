@@ -1,0 +1,14 @@
+adminPage
+signin
+login
+signup
+registration
+logout
+adminHome
+search-question
+change-status
+create-question-page
+create-question
+save-new-question
+update-question
+setting-quiz
