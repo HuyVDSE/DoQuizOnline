@@ -1,5 +1,5 @@
 # Do Quiz Now Website
-> A website allow user to do quiz online Store!
+> A website allow user to do quiz online!
 
 ## Table of contents
 * [General info](#general-info)
